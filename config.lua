@@ -9,7 +9,7 @@ Config.Lang = {
 Config.Peds = {
     {
         steamhex = "steam:hex", 
-        pedmenu = false, -- IF ENABLED PLAYER CAN CHOOSE HIS OWN PED
-        ped = false -- SET NAME PED (EXAMPLE: "a_f_m_bevhills_02") IF "pedmenu" IS DISABLED
+        pedmenu = false, -- If enabled player can choose his own ped
+        ped = false -- Set ped name (EXAMPLE: "a_f_m_bevhills_02") if "pedmenu" is DISABLED
     }
 }
